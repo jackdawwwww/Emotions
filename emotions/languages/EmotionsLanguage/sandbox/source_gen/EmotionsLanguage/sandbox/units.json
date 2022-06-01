@@ -1,0 +1,21 @@
+{
+"emotions": [
+    {
+      "id": 1,
+      "name": "Inner brow raiser",
+      "group": "brows",
+      "endValue": 100,
+      "systemIds": [8, 9]}
+,    {
+      "id": 2,
+      "name": "Outer brow raiser",
+      "group": "brows",
+      "endValue": 100,
+      "systemIds": [10, 11]}
+,    {
+      "id": 4,
+      "name": "Brow lowerer",
+      "group": "brows",
+      "endValue": 100,
+      "systemIds": [12, 13]}
+] }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <uses language="l:cdf28937-d3d5-4028-bc01-1c5621e5c4b9:EmotionsLanguage" />
+  <uses module="6f5b1d98-dcfc-4551-92c6-ee4d8c160d25(EmotionsLanguage.runtime)" kind="rt" />
+</dependenciesRoot>
+

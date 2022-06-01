@@ -1,0 +1,28 @@
+{
+"emotions": [
+{
+  "id": 1,
+  "name": "Happiness",
+  "unitsIds":[6, 12]
+ },{
+  "id": 2,
+  "name": "Sadness",
+  "unitsIds":[1, 4, 12]
+ },{
+  "id": 3,
+  "name": "Surprise",
+  "unitsIds":[2, 5, 26]
+ },{
+  "id": 4,
+  "name": "Fear",
+  "unitsIds":[1, 2, 4, 5, 7, 20, 26]
+ },{
+  "id": 5,
+  "name": "Anger",
+  "unitsIds":[4, 5, 7, 23]
+ },{
+  "id": 6,
+  "name": "Disgust",
+  "unitsIds":[9, 15]
+ }]
+}
